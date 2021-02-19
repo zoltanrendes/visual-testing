@@ -1,6 +1,6 @@
 # visual-testing
 
-Visual Testing with Applitools AI
+Visual Testing with Applitools AI Demo
 
 # Client Application
 
