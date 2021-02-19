@@ -1,0 +1,333 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App.tsx should render all elements 1`] = `
+<div>
+  <div
+    class="py-3 text-center container"
+  >
+    <div
+      class="jumbotron"
+    >
+      <div
+        class="text-center container"
+      >
+        <h1>
+          Online Store
+        </h1>
+        <p>
+          Mission, Vission & Values
+        </p>
+      </div>
+    </div>
+    <nav
+      class="navbar navbar-expand-md navbar-dark bg-dark"
+    >
+      <a
+        class="navbar-brand"
+        href="/"
+      >
+        Shop
+      </a>
+      <button
+        aria-label="Toggle navigation"
+        class="navbar-toggler"
+        type="button"
+      >
+        <span
+          class="navbar-toggler-icon"
+        />
+      </button>
+      <div
+        class="collapse navbar-collapse"
+      >
+        <ul
+          class="mr-auto navbar-nav"
+        >
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/components/"
+            >
+              Products
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/components/"
+            >
+              Deals
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/components/"
+            >
+              Stores
+            </a>
+          </li>
+          <li
+            class="nav-item"
+          >
+            <a
+              class="nav-link"
+              href="/components/"
+            >
+              Contact
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <div
+      class="my-2 container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-sm-4"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="panel panel-primary"
+            >
+              <div
+                class="panel-heading"
+              >
+                BLACK FRIDAY DEAL
+              </div>
+              <div
+                class="panel-body"
+              >
+                <img
+                  alt="somethingCool"
+                  class="img-responsive"
+                  src="wet_phone_605413.jpg"
+                  style="width: 100%;"
+                />
+              </div>
+              <div
+                class="panel-footer"
+              >
+                Buy 50 mobiles and get a gift card
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-4"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="panel panel-primary"
+            >
+              <div
+                class="panel-heading"
+              >
+                BLACK FRIDAY DEAL
+              </div>
+              <div
+                class="panel-body"
+              >
+                <img
+                  alt="somethingCool"
+                  class="img-responsive"
+                  src="mobile_on_desk_605537.jpg"
+                  style="width: 100%;"
+                />
+              </div>
+              <div
+                class="panel-footer"
+              >
+                Buy 50 mobiles and get a gift card
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-4"
+        >
+          <div
+            class="card"
+          >
+            <div
+              class="panel panel-primary"
+            >
+              <div
+                class="panel-heading"
+              >
+                BLACK FRIDAY DEAL
+              </div>
+              <div
+                class="panel-body"
+              >
+                <img
+                  alt="somethingCool"
+                  class="img-responsive"
+                  src="phone_ancient_old_270068.jpg"
+                  style="width: 100%;"
+                />
+              </div>
+              <div
+                class="panel-footer"
+              >
+                Buy 50 mobiles and get a gift card
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-sm-4"
+        >
+          <div
+            class="panel panel-primary"
+          >
+            <div
+              class="panel-heading"
+            >
+              BLACK FRIDAY DEAL
+            </div>
+            <div
+              class="panel-body"
+            >
+              <img
+                alt="somethingCool"
+                class="img-responsive"
+                src="black_iphone_on_light_wood_596417.jpg"
+                style="width: 100%;"
+              />
+            </div>
+            <div
+              class="panel-footer"
+            >
+              Buy 50 mobiles and get a gift card
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-4"
+        >
+          <div
+            class="panel panel-primary"
+          >
+            <div
+              class="panel-heading"
+            >
+              BLACK FRIDAY DEAL
+            </div>
+            <div
+              class="panel-body"
+            >
+              <img
+                alt="somethingCool"
+                class="img-responsive"
+                src="phone_on_table_604599.jpg"
+                style="width: 100%;"
+              />
+            </div>
+            <div
+              class="panel-footer"
+            >
+              Buy 50 mobiles and get a gift card
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-4"
+        >
+          <div
+            class="panel panel-primary"
+          >
+            <div
+              class="panel-heading"
+            >
+              BLACK FRIDAY DEAL
+            </div>
+            <div
+              class="panel-body"
+            >
+              <img
+                alt="somethingCool"
+                class="img-responsive"
+                src="phone_183280.jpg"
+                style="width: 100%;"
+              />
+            </div>
+            <div
+              class="panel-footer"
+            >
+              Buy 50 mobiles and get a gift card
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="text-center my-3 container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-sm-12"
+        >
+          <footer>
+            <p>
+              Online Store Copyright
+            </p>
+            <div
+              class="text-center row"
+            >
+              <div
+                class="col-md-12 offset-md-3"
+              >
+                <form
+                  class="form-inline"
+                >
+                  <div
+                    class="form-group"
+                  >
+                    Get deals:
+                    <input
+                      class="form-control mx-2 form-control"
+                      placeholder="Email Address"
+                      size="50"
+                      type="email"
+                    />
+                    <button
+                      class="btn btn-success btn btn-secondary"
+                      type="button"
+                    >
+                      Sign Up
+                    </button>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </footer>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
